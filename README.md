@@ -14,5 +14,6 @@ This is the current layout:
 |Name                                  |Price                   |
 |--------------------------------------|------------------------|
 |Bare PCBs 5pcs                        |5$                      |
-|PCB Assembly for 5pcs                 |35$                     |
+|PCB Assembly for 5pcs                 |36$                     |
 |Shipping(Fedex, the only cheap option)|0$(First order discount)|
+|Total                                 |41$                     |
