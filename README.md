@@ -7,7 +7,7 @@ The device uses MAX30102 to measure pulse and SpO2, and the microcontroller is A
 # PCB
 This is the current layout:
 
-<img width="622" height="338" alt="2026-09-01_19-17-24" src="https://github.com/user-attachments/assets/4eab3b67-15eb-4a94-8acd-62c9e7475c0d" />
+<img width="643" height="352" alt="2026-09-02_21-58-32" src="https://github.com/user-attachments/assets/29d8b389-49c1-4e59-b5f7-2ed58197821d" />
 <img width="615" height="338" alt="2026-09-01_19-17-58" src="https://github.com/user-attachments/assets/0b7b6dd4-0d0d-4683-91b3-22244a230b2f" />
 
 # BOM
