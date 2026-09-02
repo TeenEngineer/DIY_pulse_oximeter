@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "306e9551-1772-4e75-b430-aea89d834f14")
 	(paper "A4")
+	(title_block
+		(title "DIY Pulse oximeter")
+	)
 	(lib_symbols
 		(symbol "2026-08-30_17-55-17:FS8205A"
 			(pin_names
