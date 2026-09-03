@@ -21,4 +21,4 @@ This is the current layout(in 3D):
 |PCB Assembly for 5pcs                                                 |36$                     |
 |Shipping(Fedex, the only cheap option)                                |0$(First order discount)|
 |0.49" 64x32 OLED screen(https://ali.click/3mfuk1f, including shipping)|2.68$                   |
-|Total                                                                 |43.68$                     |
+|Total                                                                 |43.68$                  |
