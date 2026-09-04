@@ -13,8 +13,8 @@ About assembling the PCB, I am going to order from Aivon(cuz JLCPCB doesn't offe
 # PCB
 This is the current layout(in 3D):
 
-<img width="643" height="352" alt="2026-09-02_21-58-32" src="https://github.com/user-attachments/assets/29d8b389-49c1-4e59-b5f7-2ed58197821d" />
-<img width="615" height="338" alt="2026-09-01_19-17-58" src="https://github.com/user-attachments/assets/0b7b6dd4-0d0d-4683-91b3-22244a230b2f" />
+<img width="615" height="285" alt="2026-09-04_22-53-39" src="https://github.com/user-attachments/assets/a550907d-b60f-4943-b519-95813fd49cdf" />
+<img width="606" height="289" alt="2026-09-04_22-53-52" src="https://github.com/user-attachments/assets/e4866ce1-fdce-402e-a688-44be6c4e3c7b" />
 
 # BOM
 |Name                                                                  |Price                   |
