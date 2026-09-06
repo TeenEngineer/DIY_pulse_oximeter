@@ -6,8 +6,8 @@ The device uses MAX30102 to measure pulse and SpO2, and the microcontroller is A
 
 About assembling the PCB, I am going to order from Aivon(cuz JLCPCB doesn't offer PCBA in my country)
 
-# Schematic
-<img width="1141" height="788" alt="2026-09-02_22-06-37" src="https://github.com/user-attachments/assets/667af7b6-1908-4232-9215-c6c142b2fbf6" />
+# Schematic, PCB
+You can view the schematic and PCB layout **[here](https://kicanvas.org/?repo=https://github.com/TeenEngineer/DIY_pulse_oximeter)**
 
 
 # PCB
