@@ -8,13 +8,15 @@ About assembling the PCB, I am going to order from Aivon(cuz JLCPCB doesn't offe
 
 # Schematic, PCB
 You can view the schematic and PCB layout **[here](https://kicanvas.org/?repo=https://github.com/TeenEngineer/DIY_pulse_oximeter)**
-
+**OR**
+Here is a schematic
+<img width="1146" height="792" alt="2026-09-06_19-49-08" src="https://github.com/user-attachments/assets/b32bd15c-fe72-4bb7-82fc-7e517e7aac4a" />
 
 # PCB
 This is the current layout(in 3D):
 
-<img width="615" height="285" alt="2026-09-04_22-53-39" src="https://github.com/user-attachments/assets/a550907d-b60f-4943-b519-95813fd49cdf" />
-<img width="606" height="289" alt="2026-09-04_22-53-52" src="https://github.com/user-attachments/assets/e4866ce1-fdce-402e-a688-44be6c4e3c7b" />
+<img width="610" height="285" alt="2026-09-06_19-50-29" src="https://github.com/user-attachments/assets/a0161581-898f-4a24-b154-9a96d93d44e1" />
+<img width="615" height="285" alt="2026-09-06_19-50-55" src="https://github.com/user-attachments/assets/e320389b-9c57-4734-9f95-51a8844683de" />
 
 # BOM
 |Name                                                                  |Price                   |
