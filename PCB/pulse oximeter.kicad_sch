@@ -7071,6 +7071,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "12402012E212A"
+			(at 27.94 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A12"
 			(uuid "ea798b49-9b76-4b4a-9531-57a32b73d2c3")
 		)
@@ -7254,6 +7263,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CMD17-21VRD/TR8"
+			(at 138.43 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f1b5090c-a75f-4af0-aa68-e96ea836e295")
 		)
@@ -7315,6 +7333,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 35.56 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A475KQ8NNNC"
+			(at 35.56 128.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7449,6 +7476,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 86.36 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 86.36 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7725,6 +7761,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "FS8205A"
+			(at 241.3 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "44f15350-8031-4481-9e2f-9bb2e33d9be7")
 		)
@@ -7806,6 +7851,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0603FR-074K7L"
+			(at 43.18 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad3bb09a-6c3c-4e6f-a9f2-8b44605cef56")
 		)
@@ -7869,6 +7923,15 @@
 		)
 		(property "Description" "Two pin crystal"
 			(at 39.37 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " X32258MOB4SI"
+			(at 39.37 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7944,6 +8007,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "FRC0603F5101TS"
+			(at 46.99 33.02 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9c6536db-f921-4b50-b20e-c3cdf79dacb6")
 		)
@@ -8005,6 +8077,15 @@
 		)
 		(property "Description" "Overcharge, overcurrent and overdischarge protection IC for single cell lithium-ion/polymer battery"
 			(at 176.784 35.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "DW01A"
+			(at 176.53 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8084,6 +8165,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 144.78 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A475KQ8NNNC"
+			(at 144.78 120.65 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8225,6 +8315,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 86.36 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0021d1b8-063f-4823-b03b-f80a210fdf31")
 		)
@@ -8287,6 +8386,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 186.69 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "FRC0603F1001TS"
 			(at 186.69 35.56 0)
 			(effects
 				(font
@@ -8494,6 +8602,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10A475KQ8NNNC"
+			(at 35.56 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0369b4f2-809b-47d8-9f8c-09a838409dc2")
 		)
@@ -8555,6 +8672,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 160.02 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "Y4021100R000B9W"
+			(at 160.02 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8958,6 +9084,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "FRC0603F5101TS"
+			(at 46.99 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "88566d0d-5978-40a2-aec6-d3f0a8b592c2")
 		)
@@ -9019,6 +9154,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 146.05 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF4700T5E"
+			(at 146.05 38.1 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9160,6 +9304,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0603FR-0710KL"
+			(at 110.49 38.1 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cc477c52-7498-4b7e-9354-6ff5493ceea5")
 		)
@@ -9220,6 +9373,15 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 96.52 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KMR641NG ULC LFS"
 			(at 96.52 115.57 0)
 			(effects
 				(font
@@ -9297,6 +9459,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "RC0603FR-074K7L"
+			(at 40.64 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6fb14d7e-0b35-4e33-a4c5-3b893e0e3fae")
 		)
@@ -9361,6 +9532,15 @@
 			)
 		)
 		(property "Description" "Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package"
+			(at 124.46 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MCP73831T-2ACI/OT"
 			(at 124.46 35.56 0)
 			(effects
 				(font
@@ -9514,6 +9694,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "AP2112K-3.3TRG1"
+			(at 198.12 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "bced9431-0369-4242-8b37-4de717e76ef6")
 		)
@@ -9651,6 +9840,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 85.09 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" " FRC0603F1001TS"
 			(at 85.09 34.29 0)
 			(effects
 				(font
@@ -9858,6 +10056,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 86.36 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8cfd4c09-2d1c-49bb-b8b3-060268319a24")
 		)
@@ -9920,6 +10127,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 90.17 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "0603WAF2001T5E"
 			(at 90.17 41.91 0)
 			(effects
 				(font
@@ -10180,6 +10396,15 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MAX30102EFD+"
+			(at 120.65 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -10552,6 +10777,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CH340C"
+			(at 68.58 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "14"
 			(uuid "572850f6-60ca-4723-ab44-95a6de0b9ddf")
 		)
@@ -10662,6 +10896,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "KMR641NG ULC LFS"
+			(at 27.94 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "979186be-8d3d-49e4-ad29-0fe10e2752b2")
 		)
@@ -10722,6 +10965,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 242.57 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10A475KQ8NNNC"
+			(at 242.57 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10918,6 +11170,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "ATMEGA328P-AU"
+			(at 67.31 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "01f1e12c-4df7-4367-a121-091cad406a76")
 		)
@@ -11078,6 +11339,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 165.1 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "26a93e7f-fa1a-48d8-bff2-c32d48796fab")
 		)
@@ -11140,6 +11410,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 190.5 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "C0603C105K9RACAUTO"
 			(at 190.5 64.77 0)
 			(effects
 				(font
@@ -11283,6 +11562,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 83.82 50.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "540a595d-0a3f-498f-8925-01581839be89")
 		)
@@ -11417,6 +11705,15 @@
 				(hide yes)
 			)
 		)
+		(property "MPN" "CL10B104KB8NNNC"
+			(at 144.78 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b421866f-fbd6-4e2a-b330-c430567fb28d")
 		)
@@ -11479,6 +11776,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 68.58 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CL10B104KB8NNNC"
 			(at 68.58 24.13 0)
 			(effects
 				(font
